@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+Caveman thump: Welcome to my blog!
 ---
+# Oogaa Booga
+This is cool tho, hehe
